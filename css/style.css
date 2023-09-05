@@ -1,0 +1,162 @@
+header{
+	width: 100%;
+	border-bottom: solid 5px blue;
+}
+.collapse{
+	justify-content: right;
+}
+.navbar img{
+width: 300px;
+}
+.navbar-toggler{
+	background-color: blue;
+}
+.carousel img{
+	width: 100%;
+}
+.event-details{
+	padding: 35px 0 35px 0;
+	background-color: #044f92;
+	color: #fede63;
+	text-align: center;
+}
+.col img{
+	padding-top: 20px;
+	width: 120px;
+}
+.col p{
+	font-size: 19px;}
+
+.border img{
+	width: 100%;
+	height: 50px;
+}
+.featured-topics{
+  padding: 35px 0 35px 0;
+	background-color: white;
+	color: black;
+	text-align: center;
+}
+.featured-topics p{
+	text-align: left;
+	font-size: 18px;
+}
+
+.col img{
+	padding-top: 20px;
+	width: 120px;
+}
+.col h4{
+	padding:0 45px;
+}
+.img-fluid{
+	background-image: url(../img/bg-img.jpg);
+	padding: 50px 0 70px 0;
+	text-align: center;
+	color: white;
+}
+.img-fluid h2{
+	
+	font-size: 50px;
+	font-weight: 700;
+	padding-bottom: 20px;
+}
+.img-fluid p{
+
+	font-size: 30px;
+	font-weight: 600;
+}
+.partners{
+	padding: 50px 0 50px 0;
+	margin-top: 10px;
+	text-align: center;
+	background-color: #edf6ff;
+}
+.partners .col{
+	padding: 0;
+}
+.partners img{
+	width: 250px;
+	border: solid 1px #518ffe;
+	padding: 0;
+}
+.partners p{
+	font-size: 12px;
+	text-align: left;
+	padding-left: 16px;
+	padding-right: 16px;
+}
+footer{
+	padding-top: 30px;
+	padding-bottom: 50px;
+	margin: 0;
+	background-color: #044f92;
+	color: #fede63;
+}
+footer h5{
+	color: #538fff;
+}
+.icon {
+  height: 25px;
+  width: 25px;
+  background-color: #5290ff;
+  border-radius: 50%;
+  display: inline-block;
+  text-align: center;
+  color: #044f92;
+  font-size: 15px;
+  font-weight: 800;
+}
+.about{
+	background-size: cover;
+	padding-top: 50px;
+	padding-bottom: 50px;
+	background-image: url(../img/about1.jpg);
+	background-color: #c9d1de;
+	text-align: center;
+}
+.about p{
+	text-align: left;
+	font-size: 20px;
+}
+.about-event{
+	padding-top: 50px;
+	background-image: url(../img/aboutevent.jpg);
+	background-size: cover;
+	
+}
+.about-event h2{
+	color: #034f91;
+	font-size: 45px;
+	font-weight: 700;
+	text-align: center;
+
+}
+.about-event p{
+	padding-right: 70px;
+	padding-bottom: 50px;
+	font-size: 15px;
+}
+.faq{
+	padding-top: 40px;
+}
+.faq h2{
+	color: #528fff;
+}
+.card{
+	background-color: #edf5ff;
+	border: none;
+	margin-top: 10px;
+	color: #554e4e;
+}
+.card-header{
+	background-color: #edf5ff;
+	border: none;
+}
+.card-header a{
+	color: black;
+}
+.contact{
+	text-align: center;
+	padding-top: 50px;
+}
